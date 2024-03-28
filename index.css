@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+
+table {
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+
+#row td {
+  width: 100px;
+  height: 100px;
+}
+
+.col1 {
+  background-color: #ffb4a2;
+  color: #fff;
+}
+
+.col2 {
+  background-color: #e5989b;
+  color: #fff;
+}
+
+.col3 {
+  background-color: #b5838d;
+  color: #fff;
+}
